@@ -1,4 +1,5 @@
 package gamezone.entities;
 
-public class Catalogable {
+public interface Catalogable {
+    Object[] toTableRow();
 }
