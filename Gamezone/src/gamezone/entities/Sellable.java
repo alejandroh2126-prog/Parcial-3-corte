@@ -1,4 +1,6 @@
 package gamezone.entities;
 
-public class Sellable {
+public interface Sellable {
+    double sell(int qty);
+    String getDisplayInfo();
 }
