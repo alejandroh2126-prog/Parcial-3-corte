@@ -1,0 +1,9 @@
+gamezone\entities\Catalogable.class
+gamezone\entities\VideoGame.class
+gamezone\entities\PhysicalVideoGame.class
+gamezone\entities\Sale.class
+gamezone\ui\MainApp.class
+gamezone\repository\VideoGameRepository.class
+gamezone\entities\Sellable.class
+gamezone\entities\DigitalVideoGame.class
+gamezone\services\VideoGameService.class
